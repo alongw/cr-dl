@@ -3,7 +3,7 @@ import yaml from 'yaml'
 
 const defaultConfig = {
     session: 'your-session',
-    url: 'https://cloud.alongw.cn/api/v3',
+    url: 'https://www.gov.cn/api/v3',
     action: {
         getFile: true,
         getId: true,
